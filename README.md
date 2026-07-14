@@ -1,5 +1,6 @@
 # restrinstaller
 voidlinux restricted package installer.
+this tool installs restricted packages on void linux automatically. it clones the void-packages repo, enables restricted builds if needed, compiles the package with xbps-src, and installs it. it also keeps a package index from github, logs everything, and has commands for search, update, doctor checks, clean, history, logs, self-install, and self-update. just run ```restri install <pkg>``` and it handles the whole build process for you.
 # setting up:
 ```
 git clone https://github.com/voidlinuxenjoyer/restrinstaller.git
