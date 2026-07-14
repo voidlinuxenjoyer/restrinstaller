@@ -35,8 +35,3 @@ Env vars:
   RI_USE_NERD_FONT=1  Force Nerd Font icons (auto-detected otherwise)
   NO_COLOR=1          Disable colors
 ```
-
-
-<video controls width="800">
-  <source src="showcase.webm" type="video/webm">
-</video>
