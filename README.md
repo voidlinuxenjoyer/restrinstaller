@@ -37,5 +37,6 @@ Env vars:
 ```
 
 
-
-[▶ showcase(showcase.webm)
+<video controls width="800">
+  <source src="showcase.webm" type="video/webm">
+</video>
