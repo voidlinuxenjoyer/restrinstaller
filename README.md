@@ -28,7 +28,6 @@ Commands:
   version             Print version
   help                This message
 
-[▶ showcase(showcase.webm)
 
 Env vars:
   RI_VOID_REPO_URL, RI_VOID_BRANCH, RI_ARCH, RI_INDEX_TTL,
@@ -36,3 +35,7 @@ Env vars:
   RI_USE_NERD_FONT=1  Force Nerd Font icons (auto-detected otherwise)
   NO_COLOR=1          Disable colors
 ```
+
+
+
+[▶ showcase(showcase.webm)
