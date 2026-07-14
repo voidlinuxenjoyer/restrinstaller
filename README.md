@@ -28,6 +28,8 @@ Commands:
   version             Print version
   help                This message
 
+[▶ showcase(showcase.webm)
+
 Env vars:
   RI_VOID_REPO_URL, RI_VOID_BRANCH, RI_ARCH, RI_INDEX_TTL,
   GITHUB_TOKEN (higher API rate limit), RI_DEBUG
